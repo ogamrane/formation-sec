@@ -1,0 +1,2 @@
+org.springframework.test.context.ContextCustomizerFactory = ma.nemo.demo.config.\
+    SqlTestContainersSpringContextCustomizerFactory
